@@ -1,0 +1,45 @@
+body{
+    background-color: blueviolet ;
+    background-image: url(../img/images.jpg);
+}
+header{
+    background-color: azure;
+}
+footer{
+    background-color: azure;
+    padding: 5px;
+}
+nav{
+    background-color: yellow;
+    padding: 5px;
+    text-align: left;
+}
+img{
+    width: 5opx;
+    height: 50px;
+}
+.contenido{
+   background: rgba(246, 219, 246);
+   padding: 5px;
+   margin: 2px;
+   display: flex;
+}
+section{
+    background-color: rgba(246, 219, 246);
+    padding: 5px;
+    margin: 5px;
+    width: 50%;
+    height: 200px;
+}
+*{
+    text-align: center;
+    margin: 10px;
+}
+input{
+    background-color: aqua;
+    width: 80%;
+    height: 50px;
+}
+labelo{
+    color: red;
+}
